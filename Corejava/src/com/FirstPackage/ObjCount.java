@@ -16,7 +16,7 @@ public class ObjCount {
 		ObjCount obj = new ObjCount();
 		ObjCount obj1 = new ObjCount();
 		new ObjCount();
-		new ObjCount();
+//		new ObjCount();
 		System.out.println("Welcome, Object count is " + ObjCount.count);
 	}
 
