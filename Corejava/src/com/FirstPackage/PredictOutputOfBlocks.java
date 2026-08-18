@@ -6,8 +6,6 @@ public class PredictOutputOfBlocks {
 	        System.out.println("Static Block");
 	    }
 
-	  
-
 	    public PredictOutputOfBlocks() {
 	        System.out.println("Constructor");
 	    }
