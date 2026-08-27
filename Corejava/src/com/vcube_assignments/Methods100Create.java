@@ -10,6 +10,8 @@ public class Methods100Create {
 		 static void a() {
 			
 		}*/
+		System.out.println("->Creating 100 Methods using 'No Retun_Type With No Parameters'");
+		System.out.println();
 		System.out.println("21 Methods about Course Details--->");
 		System.out.println();
 		Methods100Create m= new Methods100Create();
